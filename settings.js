@@ -64,11 +64,11 @@ global.location = "India, UTTARAKHAND , DEV BHUMI" //ur location
 global.owner = ['919536476115']
 global.ownertag = '919536476115' //ur tag number
 global.botname = '🤡𝘾𝙃𝙄𝙍𝘼𝙂 𝙔𝙊𝙐𝙏𝙐𝘽𝙀𝙍🤡' //ur bot name
-global.linkz = "https://www.youtube.com/channel/UCOYVQIN4SGwaKV2ukY5FgdA" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chirag-youtuber-chirag.on.drv.tw/site" //ur website to be displayed
+global.linkz = "https://chat.whatsapp.com/L7r7Emf3q3FGEAmlBXbpzr" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/c/chiragyoutuber" //ur website to be displayed
 global.botscript = 'https://github.com/LOSTHACKEROFC' //script link
-global.reactmoji = "🤡" //ur menu react emoji
-global.themeemoji = "💋" //ur theme emoji
+global.reactmoji = "😬,🤖" //ur menu react emoji
+global.themeemoji = "☃️" //ur theme emoji
 global.packname = "SUBSCRIBE\n\n\n\n\n\n\n\n\n\n\n𝘾𝙃𝙄𝙍𝘼𝙂 𝙔𝙊𝙐𝙏𝙐𝘽𝙀𝙍😈 " //ur sticker watermark packname
 global.author = "CHIRAG YOUTUBER 🥵" //ur sticker watermark author
 
