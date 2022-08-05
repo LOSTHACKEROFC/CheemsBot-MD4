@@ -61,8 +61,8 @@ global.socialm = "github.com/LOSTHACKEROFC" //ur github or insta name
 global.location = "India, UTTARAKHAND , DEV BHUMI" //ur location
 
 //bot bomdy 
-global.owner = ['917302566850,919536476115']
-global.ownertag = '917302566850,919536476115' //ur tag number
+global.owner = ['917302566850']
+global.ownertag = '917302566850' //ur tag number
 global.botname = '💥❤️𝐈𝐍𝐍𝐎𝐊𝐀 𝐁𝐎𝐓🥰' //ur bot name
 global.linkz = "https://chat.whatsapp.com/KPIHH2Tfio95T3SIBNyZCZ" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/c/chiragyoutuber" //ur website to be displayed
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['917302566850,919536476115'] //ur premium numbers
+global.premium = ['917302566850'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
