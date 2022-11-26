@@ -77,7 +77,7 @@ async function startXeonBotInc() {
     const XeonBotInc = XeonBotIncConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['Subscribe Xeon','Safari','1.0.0'],
+        browser: ['Subscribe 𝑪𝒉𝒊𝒓𝒂𝒈 𝒚𝒐𝒖𝒕𝒖𝒃𝒆𝒓','Safari','1.0.0'],
         auth: state
     })
 
@@ -174,7 +174,7 @@ XeonLft = await getBuffer(`https://hardianto.xyz/api/goodbye3?profile=${encodeUR
 	            const xmembers = metadata.participants.length
                 let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: XeonWlcm, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
                 xeonbody = `┌─❖
-│「 𝗛𝗶 👋 」
+│「 𝑯𝑬𝑳𝑳𝑶 𝑩𝑨𝑩𝒀 𝑮𝑰𝑹𝑳 𝑺𝑨𝑾𝑨𝑮𝑨𝑻 𝑯𝑨𝑰 𝑨𝑷𝑲𝑨😇❤️ 」
 └┬❖ 「 @${xeonName.split("@")[0]}  」
    │✑  𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 
    │✑  ${metadata.subject}
@@ -184,7 +184,7 @@ XeonLft = await getBuffer(`https://hardianto.xyz/api/goodbye3?profile=${encodeUR
    │✑ ${xtime} ${xdate}
    └───────────────┈ ⳹`
       //if you copy the code value,
-   //dont forget to put my name(Xeon) as credit
+   //dont forget to put my name(𝑪𝑯𝑰𝑹𝑨𝑮 𝒀𝑶𝑼𝑻𝑼𝑩𝑬𝑹) as credit
    //you fail to put, i sue you for sure!
 let buttons = [
 {buttonId: `wkwwk`, buttonText: {displayText: '𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐂𝐔𝐓𝐓𝐈𝐄🙈💘'}, type: 1}
@@ -218,7 +218,7 @@ XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
                     const xeonmembers = metadata.participants.length
                     let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: xeonbuffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
                     xeonbody = `┌─❖
-│「 𝗚𝗼𝗼𝗱𝗯𝘆𝗲 👋 」
+│「 𝑪𝑯𝑨𝑳𝑨 𝑱𝑨 𝑮𝑹𝑶𝑼𝑷 𝑪𝑯𝑶𝑹𝑫 𝑲𝑬 𝑱𝑨𝑹𝑼𝑹𝑨𝑻 𝑵𝑯𝑰 𝑻𝑬𝑹𝑰 😼🧿 」
 └┬❖ 「 @${xeonName.split("@")[0]}  」
    │✑  𝗟𝗲𝗳𝘁 
    │✑ ${metadata.subject}
@@ -228,7 +228,7 @@ XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
    │✑  ${xeontime} ${xeondate}
    └───────────────┈ ⳹`
       //if you copy the code value,
-   //dont forget to put my name(Xeon) as credit
+   //dont forget to put my name(𝑪𝑯𝑰𝑹𝑨𝑮 𝒀𝑶𝑼𝑻𝑼𝑩𝑬𝑹) as credit
    //you fail to put, i sue you for sure!
 let buttons = [
 {buttonId: `wkwkwk`, buttonText: {displayText: '𝐂𝐇𝐀𝐋𝐀 𝐉𝐀 𝐁𝐒𝐃𝐊😤'}, type: 1}
