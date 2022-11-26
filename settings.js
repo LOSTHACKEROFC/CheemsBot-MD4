@@ -3,7 +3,7 @@
 //or copy the codes/script,
 //pls give credit
 //no credit? i will take action immediately
-//© 2022 Xeon Bot Inc. Cheems Bot MD
+//© 2022 𝑪𝑯𝑰𝑹𝑨𝑮 𝒀𝑶𝑼𝑻𝑼𝑩𝑬𝑹 . 𝑫𝑬𝑽𝑰𝑳 𝑩𝑶𝑻 🌈😈
 //Thank you to Lord Buddha, Family and Myself
 //════════════════════════════//
 //recode kar ke youtube pe upload kar rhe hai ya
@@ -55,19 +55,19 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['919536476115'] //ur owner number
-global.ownername = "𝐈𝐍𝐍𝐎𝐊𝐀😇🥰" //ur owner name
+global.ownername = "𝑪𝑯𝑰𝑹𝑨𝑮 𝒀𝑶𝑼𝑻𝑼𝑩𝑬𝑹" //ur owner name
 global.ytname = "CHIRAG YOUTUBER" //ur yt chanel name
 global.socialm = "github.com/LOSTHACKEROFC" //ur github or insta name
-global.location = "India, UTTARAKHAND , DEV BHUMI" //ur location
+global.location = "India, UTTARAKHAND❤️" //ur location
 
 //bot bomdy 
-global.owner = ['917302566850']
-global.ownertag = '917302566850' //ur tag number
-global.botname = '💥❤️𝐈𝐍𝐍𝐎𝐊𝐀 𝐁𝐎𝐓🥰' //ur bot name
+global.owner = ['919536476115']
+global.ownertag = '919536476115' //ur tag number
+global.botname = '💥😈𝑫𝑬𝑽𝑰𝑳 𝑩𝑶𝑻💥😈' //ur bot name
 global.linkz = "https://chat.whatsapp.com/KPIHH2Tfio95T3SIBNyZCZ" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/c/chiragyoutuber" //ur website to be displayed
 global.botscript = 'https://github.com/LOSTHACKEROFC' //script link
-global.reactmoji = "🤪" //ur menu react emoji
+global.reactmoji = "🧿" //ur menu react emoji
 global.themeemoji = "😈" //ur theme emoji
 global.packname = "SUBSCRIBE\n\n\n\n\n\n\n\n\n\n\n𝘾𝙃𝙄𝙍𝘼𝙂 𝙔𝙊𝙐𝙏𝙐𝘽𝙀𝙍😈 " //ur sticker watermark packname
 global.author = "CHIRAG YOUTUBER 🥵" //ur sticker watermark author
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['917302566850'] //ur premium numbers
+global.premium = ['919536476115'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
