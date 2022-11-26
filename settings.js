@@ -62,7 +62,7 @@ global.location = "India, UTTARAKHAND❤️" //ur location
 
 //bot bomdy 
 global.owner = ['919536476115']
-global.ownertag = '' //ur tag number
+global.ownertag = '+100292928' //ur tag number
 global.botname = '💥😈𝑫𝑬𝑽𝑰𝑳 𝑩𝑶𝑻💥😈' //ur bot name
 global.linkz = "https://youtu.be/kOGUbBhhAzA" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/c/chiragyoutuber" //ur website to be displayed
